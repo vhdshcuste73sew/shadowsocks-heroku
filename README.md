@@ -35,7 +35,7 @@ Heroku 提供免费账号，部分介绍如下：
 支持的加密算法类型如下https://github.com/mrluanma/shadowsocks-heroku#supported-ciphers
 
 ## 启动本地 Client
-1. 下载release https://github.com/onplus/shadowsocks-heroku/releases （[备份](https://github.com/vhdshcuste73sew/archive/tree/master/tool)）
+1. 下载release https://github.com/vhdshcuste73sew/shadowsocks-heroku/releases （[备份](https://github.com/vhdshcuste73sew/archive/tree/master/tool)）
 
 2. 修改config.json参数，运行ss-h.exe 或 start.vbs (或 [win托盘工具taskbar.exe](https://github.com/vhdshcuste73sew/shadowsocks-heroku/issues/39))
 
